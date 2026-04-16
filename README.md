@@ -1,1 +1,1 @@
-
+[![Build and deploy Python app to Azure Web App](https://github.com/aaadomas/ML_20260226/actions/workflows/azure-webapps-python.yml/badge.svg)](https://github.com/aaadomas/ML_20260226/actions/workflows/azure-webapps-python.yml)
